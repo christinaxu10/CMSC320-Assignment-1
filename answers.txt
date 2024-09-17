@@ -9,3 +9,8 @@ Answer: One field is weather forecasting/meteorology. Data science can help find
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will maintain both the feature and main branch, so there's a "diamond" shape in the branch structure. Rebasing will move the feature branch to the end of the main branch, which produces a linear project history--no branching structure. Generally, merging will preserve more context, whereas rebasing makes tracing through the project history easier.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data analysis skills, as well as practicing methods of gathering/manipulating data.
+
