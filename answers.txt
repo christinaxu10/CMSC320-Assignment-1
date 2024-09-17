@@ -1,3 +1,7 @@
 Q1: Why might we consider using git?
 
 Answer: For this class, it's a straightforward way to disseminate coding assignments, and instructors can view the version history of each student's assignment. In general, git is widely used in the industry, so it's helpful to get students familiar with the tool by using it in this class.
+
+Q2: What field could data science be applied to? Give an example and how it might help.
+
+Answer: One field is weather forecasting/meteorology. Data science can help find patterns/trends in historical data that can help predict the weather on a daily basis, as well as mitigate the effect of severe weather conditions.
