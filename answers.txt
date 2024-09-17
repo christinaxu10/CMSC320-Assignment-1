@@ -5,3 +5,7 @@ Answer: For this class, it's a straightforward way to disseminate coding assignm
 Q2: What field could data science be applied to? Give an example and how it might help.
 
 Answer: One field is weather forecasting/meteorology. Data science can help find patterns/trends in historical data that can help predict the weather on a daily basis, as well as mitigate the effect of severe weather conditions.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will maintain both the feature and main branch, so there's a "diamond" shape in the branch structure. Rebasing will move the feature branch to the end of the main branch, which produces a linear project history--no branching structure. Generally, merging will preserve more context, whereas rebasing makes tracing through the project history easier.
